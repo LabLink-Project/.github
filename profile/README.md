@@ -1,4 +1,4 @@
-# LabLink-BE
+# LabLink
 ### 더 빠르고 더 나은 연구 매칭 플랫폼, LabLink
 
 ![브로셔](https://user-images.githubusercontent.com/101865071/236771616-23d0cfe4-5f2d-445d-9feb-802a5755359e.jpeg)
